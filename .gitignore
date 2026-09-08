@@ -1,0 +1,5 @@
+howl
+test_host
+*.o
+datasets/wav/
+howl-test.wav
